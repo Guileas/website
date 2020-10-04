@@ -1,0 +1,10 @@
+[
+    {"name": "images/screenshots/monitor.png", "title": "Server monitor"},
+    {"name": "images/screenshots/designer.png", "title": "Relation designer"},
+    {"name": "images/screenshots/users.png", "title": "User management"},
+    {"name": "images/screenshots/gis.png", "title": "GIS data visualization"},
+    {"name": "images/screenshots/structure.png", "title": "Table structure"},
+    {"name": "images/screenshots/transformations.png", "title": "Display transformations"},
+    {"name": "images/screenshots/rtl.png", "title": "Main page with an RTL language"},
+    {"name": "images/screenshots/advisor.png", "title": "Server configuration advisor"}
+]

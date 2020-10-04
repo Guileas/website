@@ -1,0 +1,12 @@
+[
+    ["", "Home"],
+    ["news", "News"],
+    ["security/", "Security"],
+    ["support", "Support"],
+    ["docs", "Docs"],
+    ["try", "Try"],
+    ["contribute", "Contribute"],
+    ["sponsors", "Sponsors"],
+    ["themes", "Themes"],
+    ["downloads", "Download"]
+]
