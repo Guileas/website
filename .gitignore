@@ -1,9 +1,7 @@
-*.pyc
 *.sw[po]
 output
 cache
 /build/
-/django
 /frs
 /*.sqlite3
 /*.sqlite3-journal
